@@ -1,0 +1,104 @@
+{
+  "AllCategories": [
+    {
+      "group": "TV EVENTOS",
+      "color": "#FF5733",
+      "icon": "🎥",
+      "categories": [
+        "TV EVENTOS DEL DÍA PPV",
+        "TV | La Casa de los Famosos ALL STAR 2025"
+      ]
+    },
+    {
+      "group": "PACKS DE CANALES",
+      "color": "#2980B9",
+      "icon": "📦",
+      "categories": [
+        "TELEMUNDO", "UNIVISION", "UNIMAS", "GALAVISIÓN",
+        "PACK TELENOVELAS", "PACK TNT SPORTS", "PACK TIGO SPORTS",
+        "PACK DAZN SPORTS", "PACK DIRECTV", "PACK CLARO DEPORTES",
+        "PACK ESPN", "PACK FOX SPORTS", "PACK MOVISTAR"
+      ]
+    },
+    {
+      "group": "EVENTOS DEPORTIVOS",
+      "color": "#27AE60",
+      "icon": "🏟️",
+      "categories": [
+        "Liga MX", "UEFA Nations", "Liga Española", "Serie A",
+        "Bundesliga", "Liga Francesa", "Liga Chilena", "Liga Argentina",
+        "Liga Colombiana", "Copa Libertadores", "Concachampions",
+        "Copa Sudamericana",
+        "NBA FIXTURE 2025", "NBA LIGA PASS (TEAMS)",
+        "MLB FIXTURE 2025", "MLB EXTRA INNINGS (TEAMS)",
+        "NFL FIXTURE 2025", "NHL 2025",
+        "UFC PPV", "BOX", "LUCHA WW/AA", "PPV FÓRMULA 1",
+        "TAUROMANIA", "PPV TENIS", "PPV MLB"
+      ]
+    },
+    {
+      "group": "CANALES 24/7",
+      "color": "#8E44AD",
+      "icon": "🕒",
+      "categories": [
+        "Canales 24/7", "TV 24/7 Infantil Retro", "TV 24/7 PELICULAS",
+        "TV 24/7 SERIES RETRO", "TV 24/7 ARTES MARCIALES", "TV 24/7 GUERRA",
+        "TV 24/7 ACCIÓN", "TV 24/7 TERROR", "TV 24/7 FICCIÓN",
+        "TV 24/7 LOS MAGNÍFICOS", "TV 24/7 EL AUTO FANTÁSTICO",
+        "TV 24/7 MAC IVER", "TV 24/7 LOS CABALLEROS DEL ZODIACO",
+        "TV 24/7 LOS THUNDERCATS"
+      ]
+    },
+    {
+      "group": "APS STREAMING",
+      "color": "#F39C12",
+      "icon": "📺",
+      "categories": [
+        "APS STREAMING 24/7", "NETFLIX HD ESPAÑOL LATINO",
+        "AMAZON", "DISNEY", "VIX", "PARAMOUNTH", "HBO"
+      ]
+    },
+    {
+      "group": "VIDEOS MUSICALES 24/7",
+      "color": "#E91E63",
+      "icon": "🎶",
+      "categories": [
+        "24/7 Corridos", "24/7 Rancheras", "24/7 Románticas",
+        "24/7 Reguetón Clásicos", "24/7 Cumbias", "24/7 Onda Discos",
+        "24/7 Rock Clásicos", "24/7 Rock Metal", "24/7 Blue",
+        "24/7 Country", "24/7 Salsa", "24/7 Merengues",
+        "24/7 Clásicos 60/70/80 Románticas", "24/7 Rock Latino",
+        "24/7 Electrónica", "24/7 Jazz", "24/7 Baladas", "24/7 Pop"
+      ]
+    },
+    {
+      "group": "FESTIVALES Y CONCIERTOS",
+      "color": "#9C27B0",
+      "icon": "🎤",
+      "categories": ["24/7 Festival de Viña del Mar"]
+    },
+    {
+      "group": "CANALES POR PAÍS - SUDAMÉRICA",
+      "color": "#3498DB",
+      "icon": "🌎",
+      "categories": [
+        "TV/ ARGENTINA", "TV/ GUATEMALA", "TV/ DOMINICANA", "TV/ DOMINICANA 2",
+        "TV/ LIGA DOMINICANA", "TV/ VENEZUELA 1", "TV/ VENEZUELA 2",
+        "TV/ COLOMBIA 1", "TV/ COLOMBIA 2", "TV/ CUBA", "TV/ PANAMÁ",
+        "TV/ CHILE 1", "TV/ CHILE 2", "TV/ DEPORTES CHILE", "TV/ NICARAGUA",
+        "TV/ HONDURAS 1", "TV/ HONDURAS 2", "TV/ EL SALVADOR", "TV/ BRASIL",
+        "TV/ COSTA RICA 1", "TV/ COSTA RICA 2", "TV/ PERÚ", "TV/ URUGUAY",
+        "TV/ PARAGUAY", "TV/ ECUADOR", "TV/ BOLIVIA"
+      ]
+    },
+    {
+      "group": "ADULTOS +18",
+      "color": "#C0392B",
+      "icon": "🔞",
+      "categories": [
+        "XXX 24/7 VIP PORN", "PLAY STORE", "PORN STAR",
+        "PORN+18", "ADULT ONLY", "VENUS"
+      ]
+    }
+  ]
+}
